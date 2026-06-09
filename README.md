@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Esteban Flórez
 
-🎓 Ingeniero de Sistemas con más de 2 años de experiencia en tecnología, especializado en **testing manual y automatizado**.  
-🧪 Apasionado por el aseguramiento de la calidad y actualmente en formación como **QA Engineer** en TripleTen.  
-📌 Me interesa seguir creciendo en entornos ágiles y contribuir a equipos enfocados en la excelencia del software.
+Ingeniero de Sistemas con más de 5 años de experiencia en coordinación de proyectos, gestión de procesos y articulación de stakeholders en entornos corporativos multisectoriales. Historial comprobado en seguimiento de ciclo de vida de proyectos, control de alcance y cronograma, monitoreo de KPIs y gestión de riesgos y cambios. Experiencia aplicando marcos PMI/PMBOK y metodologías Agile/Scrum en proyectos de implementación ERP, operaciones financieras y servicios institucionales. Orientado a resultados, con fuerte capacidad analítica, comunicación efectiva con equipos multidisciplinarios y enfoque en mejora continua de procesos.
 
 ---
 
